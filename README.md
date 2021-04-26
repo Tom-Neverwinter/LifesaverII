@@ -25,6 +25,10 @@ however because you must subscribe to download the format we need, we instead do
 
 Take your mp3 or whatever format make it single channel with audacity. simple is better. 
 
+followed this tutorial, decreased the size significantly:
+
+https://www.youtube.com/watch?v=F28Znry0qcw
+
 import our audio as midi. yay good ole midi...
 
 https://www.bearaudiotool.com/mp3-to-midi
