@@ -1,6 +1,13 @@
 # LifesaverII
 Ghostbusters Lifesaver II clone
 
+shell:
+https://www.thingiverse.com/thing:943444/makes
+
+You need an arduino UNO or digispark and a piezo or regular speaker (small)
+one battery for power and a switch to turn it on or off.
+
+
 
 After trying to figure out how to make one cheap and simple I went through many many iterations
 
