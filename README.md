@@ -23,6 +23,8 @@ https://www.instructables.com/Translate-Songs-to-Be-Played-on-Arduino/
 
 however because you must subscribe to download the format we need, we instead download musescore 3
 
+Take your mp3 or whatever format make it single channel with audacity. simple is better. 
+
 import our audio as midi. yay good ole midi...
 
 https://www.bearaudiotool.com/mp3-to-midi
