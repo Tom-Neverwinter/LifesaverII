@@ -27,6 +27,10 @@ import our audio as midi. yay good ole midi...
 
 https://www.bearaudiotool.com/mp3-to-midi
 
-then export as musicxml format then convert using https://github.com/MrRedBeard/DotNet-MXL-Parsing-for-Arduino/blob/master/MusicXMLParser/MainForm.cs
+then export as musicxml format 
+
+rename "musicxml" to "mxl"
+
+convert using https://github.com/MrRedBeard/DotNet-MXL-Parsing-for-Arduino/blob/master/MusicXMLParser/MainForm.cs
 
 then paste it in and away you go.
