@@ -7,6 +7,8 @@ Introduced in Ghostbusters II, this device was worn with the black pistol belts 
 
 As this piece of equipment is getting harder to find I have attempted to make a more functional and faithful recreation of this piece of hardware. I DO NOT Recommend using this for its "original safety purpose" as it was found to put live in more danger when they fell off equipment, however as a prop it is fantastic.
 
+https://www.youtube.com/watch?v=7cEWXzMnOo4&t=193s (thanks for the audio bite)
+
 shell:
 https://www.thingiverse.com/thing:943444/makes
 
