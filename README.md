@@ -39,6 +39,6 @@ then export as musicxml format
 
 rename "musicxml" to "mxl"
 
-convert using https://github.com/MrRedBeard/DotNet-MXL-Parsing-for-Arduino/blob/master/MusicXMLParser/MainForm.cs
+convert using https://github.com/MrRedBeard/DotNet-MXL-Parsing-for-Arduino (seems broken atm sadly or I have failed to format it properly.)
 
 then paste it in and away you go.
