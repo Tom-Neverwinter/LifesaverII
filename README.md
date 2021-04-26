@@ -29,6 +29,8 @@ followed this tutorial, decreased the size significantly:
 
 https://www.youtube.com/watch?v=F28Znry0qcw
 
+set format to 16 bit pcm audio  and project hertz to 8000
+
 import our audio as midi. yay good ole midi...
 
 https://www.bearaudiotool.com/mp3-to-midi
